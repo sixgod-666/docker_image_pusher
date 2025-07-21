@@ -3,5 +3,5 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #swr.cn-southwest-2.myhuaweicloud.com/modelarts-turbo/infer_llm:pytorch_2.1.0-cann_8.0.rc2-py_3.9-hce_2.0.2312-aarch64-snt9b-20240606190017-#b88158-vllm-20240821
-quay.io/ascend/vllm-ascend:v0.9.1rc1 --platform linux/arm64
+quay.io/ascend/vllm-ascend:v0.9.1rc1 --platform arm64
 #vllm/vllm-openai:latest
